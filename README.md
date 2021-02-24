@@ -68,10 +68,10 @@ You'll need one text editor and willpower : )
 ---
 
 ## Tools
-[VS Code](https://code.visualstudio.com/ "VS Code")
-JavaScript
-HTML 5
-CSS 3
+[VS Code](https://code.visualstudio.com/ "VS Code")<br>
+JavaScript<br>
+HTML 5<br>
+CSS 3<br>
 
 ---
 ## Contributors
