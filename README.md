@@ -113,4 +113,4 @@ Made with :fa-heart: by Edu Fidelis
 
 ##  Versions of README
 
-[Portuguese](./README.md)  |  [English](./README-en.md) 
+[English](./README.md) 
